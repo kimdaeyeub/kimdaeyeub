@@ -1,7 +1,20 @@
 <h1 align="center">안녕하세요!👋 김대엽입니다.</h1>
 <h3 align="center">저는 프론트엔드 개발을 공부하고 있고, 코딩하는 것을 정말 즐기는 사람입니다.</h3>
 
-- 🔭 최근 진행한 프로젝트는 [color-palette](https://palettes-pi.vercel.app/)
+- 🔭 최근 진행한 프로젝트는
+
+  - Palettes
+    1. [웹사이트](https://palettes-pi.vercel.app/)
+    2. [깃허브 레포](https://github.com/kimdaeyeub/color-palette)
+  - 선물 월드컵
+    1. [웹사이트](https://giftworldcup-aba89.web.app)
+    2. [깃허브 레포](https://github.com/kimdaeyeub/worldcup)
+  - 날씨 카드
+    1. [웹사이트](https://kimdaeyeub.github.io/weather-app)
+    2. [깃허브 레포](https://github.com/kimdaeyeub/weather-app)
+  - iOS 계산기
+    1. [웹사이트](https://kimdaeyeub.github.io/js-calculator)
+    2. [깃허브 레포](https://github.com/kimdaeyeub/js-calculator)
 
 - 🌱 최근 공부중인 것은 **NextJS**
 
