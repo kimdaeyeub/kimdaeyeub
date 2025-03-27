@@ -3,6 +3,9 @@
 
 - 🔭 최근 진행한 프로젝트는
 
+  - SpeedChecker
+    1. [웹사이트](https://speedcheckerkr.vercel.app/accuracy)
+    2. [깃허브 레포](https://github.com/kimdaeyeub/speedchecker)
   - MoneyFlow
     1. [웹사이트](https://getmoneyflow.vercel.app/)
     2. [깃허브 레포](https://github.com/kimdaeyeub/MoneyFlow)
