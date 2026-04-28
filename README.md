@@ -5,15 +5,23 @@
 
   - MoneyFlow
     1. [웹사이트](https://getmoneyflow.vercel.app/)
-    2. [깃허브 레포](https://github.com/kimdaeyeub/MoneyFlow)
+    2. [Github Repository](https://github.com/kimdaeyeub/MoneyFlow)
 
-- 🌱 최근 공부중인 것은 **NextJS**
+  - kr-formatter
+    1. [npm](https://www.npmjs.com/package/kr-formatter)
+    2. [Github Repository](https://github.com/kimdaeyeub/kr-format)
+   
+  - toollande
+    1. [웹사이트](https://toollane.dev/)
+    2. [Github Repository](https://github.com/kimdaeyeub/toollane)
+
+- 🌱 최근 공부중인 것은 **GPTs App**
 
 - 📝 저는 블로그에 여러 개발 공부를 정리하고 있습니다. [https://velog.io/@kimdaeyeub/posts](https://velog.io/@kimdaeyeub/posts)
 
 - 📫 저와 연락하고 싶으시다면 **kdy990603@naver.com**
 
-- 🔥 저의 열정과 성장 스토리가 궁금하시 다면: [성장 일지](https://nifty-fact-944.notion.site/Portfolio-17445b3bfbcf80a5b30efc576ed73332)
+
 <p align="left">
 </p>
 
